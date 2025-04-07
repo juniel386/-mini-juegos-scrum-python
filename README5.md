@@ -1,12 +1,12 @@
 # Proyecto de Mini-Juegos en Python
 
-Este es un proyecto que contiene varios mini-juegos desarrollados en Python como parte de un trabajo colaborativo.
+Este es un proyecto que contiene varios mini-juegos desarrollados en Python.
 
-### Juegos incluidos:
-1. Adivina el número
-2. Adivina el color
-3. Juego de dados
-4. Piedra, papel o tijeras
+### Juegos incluidos y encargado:
+1. Adivina el número. Juniel                                                                       
+2. Adivina el color.  Isabela
+3. Juego de dados.   Angel                                                                                                                   4. Adivina la palabra. Gerok
+  Piedra, papel o tijeras 
 
 ### Instrucciones para ejecutar:
 1. Clona el repositorio.
@@ -17,7 +17,7 @@ Este es un proyecto que contiene varios mini-juegos desarrollados en Python como
 - Integrante 1: Desarrolló el juego de Adivina el número.
 - Integrante 2: Desarrolló el juego de Adivina el color.
 - Integrante 3: Desarrolló el juego de Dados y la integración del menú principal.
-
+- Intengrante 4: Desarrolló el juego de Adivina la palabra
 ### Requisitos:
 - Python 3.x
 - Sin dependencias externas.
