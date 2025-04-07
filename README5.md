@@ -5,7 +5,7 @@ Este es un proyecto que contiene varios mini-juegos desarrollados en Python.
 ### Juegos incluidos y encargado:
 1. Adivina el número. Juniel                                                                       
 2. Adivina el color.  Isabela
-3. Juego de dados.   Angel                                                                                                                   4. Adivina la palabra. Gerok
+3. Juego de dados.   Angel                                                                                                                4. Adivina la palabra. Gerok                                                                                                                  
   Piedra, papel o tijeras 
 
 ### Instrucciones para ejecutar:
